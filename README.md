@@ -1,2 +1,1 @@
-# LPPL
-Python implementation for solving Log-periodic power law for stock price prediction
+Python implementation for solving log-periodic power law formulae for stock price prediction 
